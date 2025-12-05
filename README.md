@@ -6,7 +6,6 @@
 
 [![Location](https://img.shields.io/badge/📍_Based_in-Tirane%2C_Albania-blue?style=for-the-badge)](https://www.google.com/maps/place/Tirana)
 [![Masteralb](https://img.shields.io/badge/🚀_Owner-Masteralb.com-orange?style=for-the-badge)](https://masteralb.com)
-[![Ultrathinkg](https://img.shields.io/badge/🧠_Founder-Ultrathinkg-purple?style=for-the-badge)](https://ultrathinkg.com)
 [![Twitter](https://img.shields.io/badge/X-%40aeitroc-black?style=for-the-badge&logo=x)](https://x.com/aeitroc)
 
 </div>
@@ -16,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🌍 **Based in:** Tirane, Albania
-- 🚀 **Owner of:** [Masteralb.com](https://masteralb.com) & [Ultrathinkg](https://ultrathinkg.com)
+- 🚀 **Owner of:** [Masteralb.com](https://masteralb.com)
 - 🛠️ **Passion:** Building AI-powered developer tools & Automation Systems
 - 💡 **Philosophy:** "Just a coder for fun"
 
@@ -68,9 +67,6 @@
 
 <a href="https://masteralb.com" target="_blank">
   <img src="https://img.shields.io/badge/Website-Masteralb.com-orange?style=for-the-badge&logo=firefox" alt="Website" />
-</a>
-<a href="https://ultrathinkg.com" target="_blank">
-  <img src="https://img.shields.io/badge/Link-Ultrathinkg-purple?style=for-the-badge&logo=rocket" alt="Ultrathinkg" />
 </a>
 <a href="https://x.com/aeitroc" target="_blank">
   <img src="https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=x" alt="X" />
