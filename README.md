@@ -17,7 +17,6 @@
 - 🌍 **Based in:** Tirane, Albania
 - 🚀 **Owner of:** [Masteralb.com](https://masteralb.com)
 - 🛠️ **Passion:** Building AI-powered developer tools & Automation Systems
-- 💡 **Philosophy:** "Just a coder for fun"
 
 ---
 
