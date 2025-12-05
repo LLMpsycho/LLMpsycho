@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Besi
 
-> **Coder for fun, like Saitama.** 👊
+<p align="center" style="font-size: 14px;"><b>Coder for fun, like Saitama.</b> 👊</p>
 
 <div align="center">
 
