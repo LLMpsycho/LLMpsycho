@@ -1,34 +1,79 @@
-# Hi, I'm Besi 
+# 👋 Hi, I'm Besi
 
-I’m just a coder for fun, like Saitama.
+> **Coder for fun, like Saitama.** 👊
 
-## About Me
+<div align="center">
 
-- Based in Tirane, Albania
-- Owner of Masteralb.com 
-- Building AI-powered developer tools
+[![Location](https://img.shields.io/badge/📍_Based_in-Tirane%2C_Albania-blue?style=for-the-badge)](https://www.google.com/maps/place/Tirana)
+[![Masteralb](https://img.shields.io/badge/🚀_Owner-Masteralb.com-orange?style=for-the-badge)](https://masteralb.com)
+[![Ultrathinkg](https://img.shields.io/badge/🧠_Founder-Ultrathinkg-purple?style=for-the-badge)](https://ultrathinkg.com)
+[![Twitter](https://img.shields.io/badge/X-%40aeitroc-black?style=for-the-badge&logo=x)](https://x.com/aeitroc)
 
-## Projects
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌍 **Based in:** Tirane, Albania
+- 🚀 **Owner of:** [Masteralb.com](https://masteralb.com) & [Ultrathinkg](https://ultrathinkg.com)
+- 🛠️ **Passion:** Building AI-powered developer tools & Automation Systems
+- 💡 **Philosophy:** "Just a coder for fun"
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQL5-0075C9?style=flat&logo=metatrader5&logoColor=white" />
+</div>
+
+---
+
+## 🚀 Projects
 
 ### 🤖 AI & Automation
 
-- **[Claude-Code-Agent-Creator](https://github.com/aeitroc/Claude-Code-Agent-Creator)** - An ultra-intelligent system that analyzes project needs and dynamically creates specialized subagents for parallel development.
-- **[Droid-CLI-Orchestrator](https://github.com/aeitroc/Droid-CLI-Orchestrator)** - An intelligent AI orchestration system for coordinating specialized droids to accomplish complex development tasks.
-- **[claude-select](https://github.com/aeitroc/claude-select)** - A unified launcher for Claude Code that lets you interactively choose which LLM backend to use.
-- **[prompt-manager](https://github.com/aeitroc/prompt-manager)** - A professional Next.js webapp for managing AI prompts with intelligent AI enhancement.
-
+| Project | Description |
+| :--- | :--- |
+| **[Claude-Code-Agent-Creator](https://github.com/aeitroc/Claude-Code-Agent-Creator)** | An **ultra-intelligent system** that analyzes project needs and dynamically creates specialized subagents for parallel development. |
+| **[Droid-CLI-Orchestrator](https://github.com/aeitroc/Droid-CLI-Orchestrator)** | An intelligent **AI orchestration system** for coordinating specialized droids to accomplish complex development tasks. |
+| **[claude-select](https://github.com/aeitroc/claude-select)** | A **unified launcher** for Claude Code that lets you interactively choose which LLM backend to use. |
+| **[prompt-manager](https://github.com/aeitroc/prompt-manager)** | A professional **Next.js webapp** for managing AI prompts with intelligent AI enhancement. |
 
 ### 📈 Trading & Finance
 
-- **[MQL5-AI-Libraries](https://github.com/aeitroc/MQL5-AI-Libraries)** - MQL5 libraries designed to integrate AI providers into expert advisors (EAs) for MetaTrader 5.
-- **[MQL5-Development-Libraries](https://github.com/aeitroc/MQL5-Development-Libraries)** - Collection of MQL5 libraries for developing trading robots and indicators.
+| Project | Description |
+| :--- | :--- |
+| **[MQL5-AI-Libraries](https://github.com/aeitroc/MQL5-AI-Libraries)** | **MQL5 libraries** designed to integrate AI providers into expert advisors (EAs) for MetaTrader 5. |
+| **[MQL5-Development-Libraries](https://github.com/aeitroc/MQL5-Development-Libraries)** | Collection of MQL5 libraries for developing **trading robots** and indicators. |
 
 ### 🌐 Web & Analytics
 
-- **[BitsManager](https://github.com/aeitroc/BitsManager)** - Web-based project designed to help you manage and organize your digital assets efficiently.
-- **[wc-order-origin-tracker](https://github.com/aeitroc/wc-order-origin-tracker)** - Facebook Ads ROAS Analysis Report and tracking cookie implementation.
+| Project | Description |
+| :--- | :--- |
+| **[BitsManager](https://github.com/aeitroc/BitsManager)** | Web-based project designed to help you **manage and organize** your digital assets efficiently. |
+| **[wc-order-origin-tracker](https://github.com/aeitroc/wc-order-origin-tracker)** | **Facebook Ads ROAS** Analysis Report and tracking cookie implementation. |
 
-## Connect
+---
 
-- Website: [masteralb.com](http://masteralb.com/)
-- X: [@aeitroc](https://x.com/aeitroc)
+## 📬 Connect
+
+<div align="center">
+
+<a href="https://masteralb.com" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Masteralb.com-orange?style=for-the-badge&logo=firefox" alt="Website" />
+</a>
+<a href="https://ultrathinkg.com" target="_blank">
+  <img src="https://img.shields.io/badge/Link-Ultrathinkg-purple?style=for-the-badge&logo=rocket" alt="Ultrathinkg" />
+</a>
+<a href="https://x.com/aeitroc" target="_blank">
+  <img src="https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=x" alt="X" />
+</a>
+
+</div>
