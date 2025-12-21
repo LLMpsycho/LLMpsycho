@@ -46,6 +46,7 @@
 | **[Droid-CLI-Orchestrator](https://github.com/aeitroc/Droid-CLI-Orchestrator)** | An intelligent **AI orchestration system** for coordinating specialized droids to accomplish complex development tasks. |
 | **[claude-select](https://github.com/aeitroc/claude-select)** | A **unified launcher** for Claude Code that lets you interactively choose which LLM backend to use. |
 | **[prompt-manager](https://github.com/aeitroc/prompt-manager)** | A professional **Next.js webapp** for managing AI prompts with intelligent AI enhancement. |
+| **[gitto](https://github.com/aeitroc/gitto)** | A powerful Git automation tool |
 
 ### 📈 Trading & Finance
 
