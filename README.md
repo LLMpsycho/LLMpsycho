@@ -47,6 +47,7 @@
 | **[claude-select](https://github.com/aeitroc/claude-select)** | A **unified launcher** for Claude Code that lets you interactively choose which LLM backend to use. |
 | **[prompt-manager](https://github.com/aeitroc/prompt-manager)** | A professional **Next.js webapp** for managing AI prompts with intelligent AI enhancement. |
 | **[gitto](https://github.com/aeitroc/gitto)** | Gitto for Claude Code / Codex is a skill that turns a bug description into targeted GitHub code and issue searches, then summarizes patterns and candidate fixes. |
+| **[aivsai.chat](https://aivsai.chat)** | A **multi-agent platform** for watching AI agents debate and collaborate. |
 
 ### 📈 Trading & Finance
 
@@ -54,6 +55,7 @@
 | :--- | :--- |
 | **[MQL5-AI-Libraries](https://github.com/aeitroc/MQL5-AI-Libraries)** | **MQL5 libraries** designed to integrate AI providers into expert advisors (EAs) for MetaTrader 5. |
 | **[MQL5-Development-Libraries](https://github.com/aeitroc/MQL5-Development-Libraries)** | Collection of MQL5 libraries for developing **trading robots** and indicators. |
+| **[cortiea.com](https://cortiea.com)** | A **top MQL5 AI Expert Advisor** for trading. |
 
 ### 🌐 Web & Analytics
 
@@ -61,6 +63,7 @@
 | :--- | :--- |
 | **[BitsManager](https://github.com/aeitroc/BitsManager)** | Web-based project designed to help you **manage and organize** your digital assets efficiently. |
 | **[wc-order-origin-tracker](https://github.com/aeitroc/wc-order-origin-tracker)** | **Facebook Ads ROAS** Analysis Report and tracking cookie implementation. |
+| **[sinena.com](https://sinena.com)** | A web platform to **connect families** with reliable care in Albania. |
 
 ---
 
