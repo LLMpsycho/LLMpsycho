@@ -45,6 +45,7 @@
 | **[Claude-Code-Agent-Creator](https://github.com/aeitroc/Claude-Code-Agent-Creator)** | An **ultra-intelligent system** that analyzes project needs and dynamically creates specialized subagents for parallel development. |
 | **[Droid-CLI-Orchestrator](https://github.com/aeitroc/Droid-CLI-Orchestrator)** | An intelligent **AI orchestration system** for coordinating specialized droids to accomplish complex development tasks. |
 | **[claude-select](https://github.com/aeitroc/claude-select)** | A **unified launcher** for Claude Code that lets you interactively choose which LLM backend to use. |
+| **[speckit-chain](https://github.com/aeitroc/speckit-chain)** | Speckit Chain Plugin for Opencode automates the Speckit commands chain and auto-answers clarification prompts. |
 | **[prompt-manager](https://github.com/aeitroc/prompt-manager)** | A professional **Next.js webapp** for managing AI prompts with intelligent AI enhancement. |
 | **[gitto](https://github.com/aeitroc/gitto)** | Gitto for Claude Code / Codex is a skill that turns a bug description into targeted GitHub code and issue searches, then summarizes patterns and candidate fixes. |
 | **[aivsai.chat](https://aivsai.chat)** | A **multi-agent platform** for watching AI agents debate and collaborate. |
