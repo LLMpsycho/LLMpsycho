@@ -6,7 +6,7 @@
 
 [![Location](https://img.shields.io/badge/📍_Based_in-Tirane%2C_Albania-blue?style=for-the-badge)](https://www.google.com/maps/place/Tirana)
 [![Masteralb](https://img.shields.io/badge/🚀_Owner-Masteralb.com-orange?style=for-the-badge)](https://masteralb.com)
-[![Twitter](https://img.shields.io/badge/X-%40aeitroc-black?style=for-the-badge&logo=x)](https://x.com/aeitroc)
+[![Twitter](https://img.shields.io/badge/X-%40aeitroc-black?style=for-the-badge&logo=x)](https://x.com/LLMpsycho)
 
 </div>
 
