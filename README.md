@@ -64,7 +64,7 @@
 | :--- | :--- |
 | **[BitsManager](https://github.com/aeitroc/BitsManager)** | Web-based project designed to help you **manage and organize** your digital assets efficiently. |
 | **[wc-order-origin-tracker](https://github.com/aeitroc/wc-order-origin-tracker)** | **Facebook Ads ROAS** Analysis Report and tracking cookie implementation. |
-| **[sinena.com](https://sinena.com)** | A web platform to **connect families** with reliable care in Albania. |
+
 
 ---
 
