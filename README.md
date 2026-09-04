@@ -6,7 +6,7 @@
 
 [![Location](https://img.shields.io/badge/📍_Based_in-Tirane%2C_Albania-blue?style=for-the-badge)](https://www.google.com/maps/place/Tirana)
 [![Masteralb](https://img.shields.io/badge/🚀_Owner-Masteralb.com-orange?style=for-the-badge)](https://masteralb.com)
-[![Twitter](https://img.shields.io/badge/X-%40aeitroc-black?style=for-the-badge&logo=x)](https://x.com/LLMpsycho)
+[![Twitter](https://img.shields.io/badge/X-%40LLMpsycho-black?style=for-the-badge&logo=x)](https://x.com/LLMpsycho)
 
 </div>
 
@@ -42,28 +42,27 @@
 
 | Project | Description |
 | :--- | :--- |
-| **[Claude-Code-Agent-Creator](https://github.com/aeitroc/Claude-Code-Agent-Creator)** | An **ultra-intelligent system** that analyzes project needs and dynamically creates specialized subagents for parallel development. |
-| **[Droid-CLI-Orchestrator](https://github.com/aeitroc/Droid-CLI-Orchestrator)** | An intelligent **AI orchestration system** for coordinating specialized droids to accomplish complex development tasks. |
-| **[claude-select](https://github.com/aeitroc/claude-select)** | A **unified launcher** for Claude Code that lets you interactively choose which LLM backend to use. |
-| **[speckit-chain](https://github.com/aeitroc/speckit-chain)** | Speckit Chain Plugin for Opencode automates the Speckit commands chain and auto-answers clarification prompts. |
-| **[prompt-manager](https://github.com/aeitroc/prompt-manager)** | A professional **Next.js webapp** for managing AI prompts with intelligent AI enhancement. |
-| **[gitto](https://github.com/aeitroc/gitto)** | Gitto for Claude Code / Codex is a skill that turns a bug description into targeted GitHub code and issue searches, then summarizes patterns and candidate fixes. |
-| **[aivsai.chat](https://aivsai.chat)** | A **multi-agent platform** for watching AI agents debate and collaborate. |
+| **[Claude-Code-Agent-Creator](https://github.com/LLMpsycho/Claude-Code-Agent-Creator)** | An **ultra-intelligent system** that analyzes project needs and dynamically creates specialized subagents for parallel development. |
+| **[Droid-CLI-Orchestrator](https://github.com/LLMpsycho/Droid-CLI-Orchestrator)** | An intelligent **AI orchestration system** for coordinating specialized droids to accomplish complex development tasks. |
+| **[claude-select](https://github.com/LLMpsycho/claude-select)** | A **unified launcher** for Claude Code that lets you interactively choose which LLM backend to use. |
+| **[speckit-chain](https://github.com/LLMpsycho/speckit-chain)** | Speckit Chain Plugin for Opencode automates the Speckit commands chain and auto-answers clarification prompts. |
+| **[prompt-manager](https://github.com/LLMpsycho/prompt-manager)** | A professional **Next.js webapp** for managing AI prompts with intelligent AI enhancement. |
+| **[gitto](https://github.com/LLMpsycho/gitto)** | Gitto for Claude Code / Codex is a skill that turns a bug description into targeted GitHub code and issue searches, then summarizes patterns and candidate fixes. |
 
 ### 📈 Trading & Finance
 
 | Project | Description |
 | :--- | :--- |
-| **[MQL5-AI-Libraries](https://github.com/aeitroc/MQL5-AI-Libraries)** | **MQL5 libraries** designed to integrate AI providers into expert advisors (EAs) for MetaTrader 5. |
-| **[MQL5-Development-Libraries](https://github.com/aeitroc/MQL5-Development-Libraries)** | Collection of MQL5 libraries for developing **trading robots** and indicators. |
+| **[MQL5-AI-Libraries](https://github.com/LLMpsycho/MQL5-AI-Libraries)** | **MQL5 libraries** designed to integrate AI providers into expert advisors (EAs) for MetaTrader 5. |
+| **[MQL5-Development-Libraries](https://github.com/LLMpsycho/MQL5-Development-Libraries)** | Collection of MQL5 libraries for developing **trading robots** and indicators. |
 | **[cortiea.com](https://cortiea.com)** | A **top MQL5 AI Expert Advisor** for trading. |
 
 ### 🌐 Web & Analytics
 
 | Project | Description |
 | :--- | :--- |
-| **[BitsManager](https://github.com/aeitroc/BitsManager)** | Web-based project designed to help you **manage and organize** your digital assets efficiently. |
-| **[wc-order-origin-tracker](https://github.com/aeitroc/wc-order-origin-tracker)** | **Facebook Ads ROAS** Analysis Report and tracking cookie implementation. |
+| **[BitsManager](https://github.com/LLMpsycho/BitsManager)** | Web-based project designed to help you **manage and organize** your digital assets efficiently. |
+| **[wc-order-origin-tracker](https://github.com/LLMpsycho/wc-order-origin-tracker)** | **Facebook Ads ROAS** Analysis Report and tracking cookie implementation. |
 
 
 ---
@@ -75,7 +74,7 @@
 <a href="https://masteralb.com" target="_blank">
   <img src="https://img.shields.io/badge/Website-Masteralb.com-orange?style=for-the-badge&logo=firefox" alt="Website" />
 </a>
-<a href="https://x.com/aeitroc" target="_blank">
+<a href="https://x.com/LLMpsycho" target="_blank">
   <img src="https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=x" alt="X" />
 </a>
 
