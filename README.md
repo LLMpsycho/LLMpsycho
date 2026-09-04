@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Besi
 
-<p align="center" style="font-size: 14px;"><b>I'm just a coder for fun. like Saitama.</b> 👊</p>
+<p align="center" style="font-size: 14px;"><b>Sr Agentic Engineer, Full Stack Dev, DevOps, suffering from LLM psychosis.</b> 👊</p>
 
 <div align="center">
 
