@@ -5,7 +5,6 @@
 <div align="center">
 
 [![Location](https://img.shields.io/badge/📍_Based_in-Tirane%2C_Albania-blue?style=for-the-badge)](https://www.google.com/maps/place/Tirana)
-[![Masteralb](https://img.shields.io/badge/🚀_Owner-Masteralb.com-orange?style=for-the-badge)](https://masteralb.com)
 [![Twitter](https://img.shields.io/badge/X-%40LLMpsycho-black?style=for-the-badge&logo=x)](https://x.com/LLMpsycho)
 
 </div>
@@ -15,7 +14,6 @@
 ## 👨‍💻 About Me
 
 - 🌍 **Based in:** Tirane, Albania
-- 🚀 **Owner of:** [Masteralb.com](https://masteralb.com)
 - 🛠️ **Passion:** Building AI-powered developer tools & Automation Systems
 
 ---
@@ -71,9 +69,6 @@
 
 <div align="center">
 
-<a href="https://masteralb.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-Masteralb.com-orange?style=for-the-badge&logo=firefox" alt="Website" />
-</a>
 <a href="https://x.com/LLMpsycho" target="_blank">
   <img src="https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=x" alt="X" />
 </a>
